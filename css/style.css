@@ -1,6 +1,22 @@
 html{
-  background-color: #d4d4d4;
+  background-color: #ffc88a;
 }
-.MainFrame {
-  background-color: white;
+img{
+  padding: 20px;
+  width:500px; 
+}
+h1{
+  color: #a64a2b;
+  font-weight: 600;
+}
+.container{
+  width: 50%;
+  background-color:#f1a132;
+  margin: 10px;
+  padding: 10px;
+}
+input{
+  background-color: #f5cdb2;
+  color: #6c3e14;
+  border-color: #905237;
 }
